@@ -357,17 +357,5 @@ pp_mes
 **d)** Cree una función que calcule, a partir de los datos de preicpitación mensual, la climatología (Ene-Dic) para el período 1980-2010.
 
 **f)** Esta es un version de prueba, agregado por Deysy a las 11:31 de hoy 
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
+##HOLA
+
